@@ -13,7 +13,7 @@
 ![](https://img.shields.io/github/repo-size/orangedevs/orange-search)
 ![](https://img.shields.io/github/downloads/orangedevs/orange-search/total)
 
-## Status
+## Build Status
 
 [![pages-build-deployment](https://github.com/orangedevs/orange-search/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/orangedevs/orange-search/actions/workflows/pages/pages-build-deployment)
 
