@@ -7,7 +7,7 @@
 ![](https://img.shields.io/github/license/orangedevs/orange-search)
 ![](https://img.shields.io/github/issues/orangedevs/orange-search)
 ![](https://img.shields.io/github/stars/orangedevs/orange-search)
-![](https://img.shields.io/badge/build-passing-brightgreen)
+![](https://img.shields.io/github/workflow/status/actions/toolkit/toolkit-unit-tests)
 
 
 ## 
