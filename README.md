@@ -4,6 +4,6 @@
 
 ## This search is for [Orange Browser](https://github.com/orangedevs/Orange-Browser)
 
-
+![](https://img.shields.io/github/license/orangedevs/orange-search)
 ## 
 Copyright © 2022 - Orange Dev
