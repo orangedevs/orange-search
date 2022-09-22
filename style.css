@@ -61,4 +61,12 @@ body{
 .container form button img{
     width: 50px;
 }
-
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: grey !important;
+  color: white;
+  text-align: center;
+}
