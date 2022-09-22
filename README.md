@@ -8,7 +8,7 @@
 ![](https://img.shields.io/github/issues/orangedevs/orange-search)
 ![](https://img.shields.io/github/stars/orangedevs/orange-search)
 ![](https://img.shields.io/github/workflow/status/actions/toolkit/toolkit-unit-tests)
-![](https://img.shields.io/github/languages/code-size/orangedevs/orange-search)
+![](https://img.shields.io/github/repo-size/orangedevs/orange-search)
 
 ## 
 Copyright © 2022 - Orange Dev
