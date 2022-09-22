@@ -6,6 +6,6 @@
 
 ![](https://img.shields.io/github/license/orangedevs/orange-search)
 ![](https://img.shields.io/github/issues/orangedevs/orange-search)
-![](https://img.shields.io/github/build/orangedevs/orange-search)
+![](https://img.shields.io/github/builds/orangedevs/orange-search)
 ## 
 Copyright © 2022 - Orange Dev
